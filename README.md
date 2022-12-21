@@ -2,4 +2,4 @@
 Hello World
 Hello everyone!
 
-I'm learning to coding using HTML and CSS and later JavaScript
+I'm learning to code using HTML and CSS and later JavaScript
